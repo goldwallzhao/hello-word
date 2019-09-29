@@ -1,2 +1,3 @@
 # hello-word
-try a repository
+try a repository  
+study repository
